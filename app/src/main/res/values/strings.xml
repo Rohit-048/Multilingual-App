@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MultilingualApp</string>
+    <string-array name="languages">
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Bengali</item>
+        <item>Telugu</item>
+        <item>Marathi</item>
+        <item>Tamil</item>
+        <item>Urdu</item>
+        <item>Gujarati</item>
+        <item>Kannada</item>
+        <item>Malayalam</item>
+        <item>Odia</item>
+        <item>Punjabi</item>
+    </string-array>
+</resources>
